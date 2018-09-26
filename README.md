@@ -8,4 +8,4 @@ Unexpected abstract art from real data in R.
 ![geom_hex](geom_hex2.png)
 ![complex_heatmap](complexheatmap.png)
 ![FridayFeeling](FridayFeeling.png)
-![Volcano-ggrepel](Volcano-ggrepel.png
+![Volcano_ggrepel](Volcano_ggrepel.png)
